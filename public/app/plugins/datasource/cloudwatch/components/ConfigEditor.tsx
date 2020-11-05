@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { PureComponent } from 'react';
 import { InlineFormLabel, LegacyForms, Button } from '@grafana/ui';
 const { Select, Input } = LegacyForms;
